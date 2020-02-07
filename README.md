@@ -8,4 +8,6 @@ Use Moment.js for timestamp on top of website.
 
 Application: https://skateshindler.github.io/DayPlanner/
 
+<img src="ex.jpg" alt="Italian Trulli">
+
 
